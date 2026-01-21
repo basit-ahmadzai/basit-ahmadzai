@@ -183,7 +183,7 @@
 - Mentoring & Knowledge Sharing
 
 📧 **Email:** [basit.ahmadzai@example.com](mailto:basit.ahmadzai@example.com)  
-💼 **Portfolio:** [basit-portfolio-blush.vercel.app]  
+💼 **Portfolio:** basit-portfolio-blush.vercel.app
 📱 **WhatsApp:** [+93 765 169 854](https://api.whatsapp.com/send/?phone=0765169854)
 
 ---
