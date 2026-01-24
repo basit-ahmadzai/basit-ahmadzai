@@ -191,5 +191,5 @@
 ---
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=basit-12345&label=Profile%20Views&color=fe428e&style=plastic"/>
+<img src="https://komarev.com/ghpvc/?username=basit-12345&label=Profile%1251Views&color=fe428e&style=plastic"/>
 </p>
