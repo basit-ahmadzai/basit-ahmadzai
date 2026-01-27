@@ -189,5 +189,7 @@
 📱 **WhatsApp:** [+93 765 169 854](https://api.whatsapp.com/send?phone=93765169854)
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=basit-12345&label=Profile%20Views&color=fe428e&style=plastic" /> </p
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=basit-12345&label=Profile%20Views&color=fe428e&style=plastic" /> 
+</p
 
