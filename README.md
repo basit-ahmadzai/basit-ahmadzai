@@ -1,3 +1,11 @@
+
+
+---
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=basit-12345&label=Profile%20Views&color=fe428e&style=plastic" /> 
+</p
+
+  
 <h1 align="center">
   <a href="https://git.io/typing-svg"> 
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Abdul+Basit+Ahmadzai;Full-Stack+Developer;DevOpps+Engineer;Nice+to+meet+you!&center=true&size=30&color=fe428e">
@@ -188,8 +196,5 @@
 💼 **Portfolio:** [https://basit-portfolio-blush.vercel.app](https://basit-portfolio-blush.vercel.app)  
 📱 **WhatsApp:** [+93 765 169 854](https://api.whatsapp.com/send?phone=93765169854)
 
----
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=basit-12345&label=Profile%20Views&color=fe428e&style=plastic" /> 
-</p
+
 
