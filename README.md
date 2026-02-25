@@ -1,10 +1,10 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="https://git.io/typing-svg"> 
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Abdul+Basit+Ahmadzai;Full-Stack+Developer;DevOpps+Engineer;Nice+to+meet+you!&center=true&size=30&color=fe428e">
   </a>
-</h1>
+</h1> 
 
-<div>
+<div>  
   <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="Professional developer animation"/>
 </div>
 
